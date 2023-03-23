@@ -18,5 +18,3 @@
 Pré-requisitos: 
 
 # Autor
-
-https://www.youtube.com/watch?v=jIa8R69pKh8&t=192s
