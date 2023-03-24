@@ -22,11 +22,11 @@ Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tr
 Pré-requisitos: 
 
 # Autor
-Danubia Mayumi Aihara -  
+Danubia Mayumi Aihara - [LinkedIn](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
 
 Gabriel Sene Moreira - 
 
-João Augusto Amaral da Silva -
+João Augusto Amaral da Silva - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214)
 
 Matheus Gustavo Oliveira Cardoso - [LinkedIn](https://www.linkedin.com/in/theuscards)
 
