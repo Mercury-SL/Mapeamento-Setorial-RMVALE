@@ -8,15 +8,13 @@ Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tr
 
 
 # Tecnologias utilizadas
-**Excel**
+**Excel**: Análise e filtragem de dados encontrados.
 
-**Power BI**
+**Power BI**: Dashboard, análise e filtragem de dados.
 
-**Jira Software**
+**Figma**: Prototipação do aplicativo.
 
-**Figma**
-
-**Power Apps**
+**Power Apps**: Criação do aplicativo.
 
 # Como executar o projeto
 Pré-requisitos: 
