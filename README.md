@@ -5,16 +5,24 @@
 Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
 
 # Layout de alguma coisa
+### Dashboard
 
+### Protótipo do aplicativo
+
+### Aplicativo
 
 # Tecnologias utilizadas
-**Excel**: Análise e filtragem de dados encontrados.
+### Excel
+Análise e filtragem de dados encontrados.
 
-**Power BI**: Dashboard, análise e filtragem de dados.
+### Power BI
+Dashboard, análise e filtragem de dados.
 
-**Figma**: Prototipação do aplicativo.
+### Figma
+Prototipação do aplicativo.
 
-**Power Apps**: Criação do aplicativo.
+### Power Apps
+Criação do aplicativo.
 
 # Como executar o projeto
 Pré-requisitos: 
