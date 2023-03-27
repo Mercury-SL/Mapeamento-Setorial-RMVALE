@@ -1,41 +1,48 @@
-# Log Inovation 
+# API: Mapeamento setorial RMVALE
+
+### Sobre o projeto
+- Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
+
+#### :memo: Status do projeto: 1ª Sprint
+----------------------------------------------------
+
+### :desktop_computer: Tecnologias utilizadas
+- **Power BI:** Dashboard, análise e filtragem de dados.
+
+- **Figma:** Prototipação do aplicativo.
+
+- **Power Apps:** Criação do aplicativo.
+
+- **ComexStat:** Base de dados para o API
+
+- **Excel:** Análise e filtragem de dados encontrados.
+
+----------------------------------------------
+
+### Layouts
+- Dashboard
+
+- Protótipo do aplicativo
+
+- Aplicativo
+
+--------------------------------------
+
+### Como executar o projeto
+Links:
 
 
-# Sobre o projeto
-Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
 
-# Layout de alguma coisa
-### Dashboard
+# Autores
+:woman_student: **Scrum Master:** Danubia Mayumi Aihara - [LinkedIn](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
 
-### Protótipo do aplicativo
+:woman_student: **P.O:** Gabriel Sene Moreira - 
 
-### Aplicativo
+:busts_in_silhouette:	**Scrum Team:**
+- João Augusto Amaral da Silva - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214)
 
-# Tecnologias utilizadas
-### Excel
-Análise e filtragem de dados encontrados.
+- Matheus Gustavo Oliveira Cardoso - [LinkedIn](https://www.linkedin.com/in/theuscards)
 
-### Power BI
-Dashboard, análise e filtragem de dados.
+- Nicolli Victoria Paparazo Ferreira - 
 
-### Figma
-Prototipação do aplicativo.
-
-### Power Apps
-Criação do aplicativo.
-
-# Como executar o projeto
-Pré-requisitos: 
-
-# Autor
-Danubia Mayumi Aihara - [LinkedIn](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
-
-Gabriel Sene Moreira - 
-
-João Augusto Amaral da Silva - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214)
-
-Matheus Gustavo Oliveira Cardoso - [LinkedIn](https://www.linkedin.com/in/theuscards)
-
-Nicolli Victoria Paparazo Ferreira - 
-
-Pedro Calderaro Martins - [LinkedIn](https://www.linkedin.com/in/pedro-calderaro-175462262/)
+- Pedro Calderaro Martins - [LinkedIn](https://www.linkedin.com/in/pedro-calderaro-175462262/)
