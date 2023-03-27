@@ -1,6 +1,6 @@
 # API: Mapeamento setorial RMVALE
 
-### Sobre o projeto
+### :mag_right: Sobre o projeto
 - Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
 
 #### :memo: Status do projeto: 1ª Sprint
