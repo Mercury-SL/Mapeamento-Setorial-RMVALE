@@ -19,7 +19,7 @@
 
 ----------------------------------------------
 
-### Layouts
+### :framed_picture: Layouts
 - Dashboard
 
 - Protótipo do aplicativo
