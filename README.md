@@ -36,13 +36,13 @@ Links:
 # Autores
 :woman_student: **Scrum Master:** Danubia Mayumi Aihara - [LinkedIn](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
 
-:woman_student: **P.O:** Gabriel Sene Moreira - 
+:woman_student: **P.O:** Nicolli Victoria Paparazo Ferreira -
 
 :busts_in_silhouette:	**Scrum Team:**
+- Gabriel Sene Moreira -  
+
 - João Augusto Amaral da Silva - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214)
 
 - Matheus Gustavo Oliveira Cardoso - [LinkedIn](https://www.linkedin.com/in/theuscards)
-
-- Nicolli Victoria Paparazo Ferreira - 
 
 - Pedro Calderaro Martins - [LinkedIn](https://www.linkedin.com/in/pedro-calderaro-175462262/)
