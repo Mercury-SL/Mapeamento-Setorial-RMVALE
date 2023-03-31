@@ -28,6 +28,12 @@
 
 --------------------------------------
 
+### Links
+- Tabela de exportação: http://comexstat.mdic.gov.br/pt/municipio/79521
+- Tabela de importação: http://comexstat.mdic.gov.br/pt/municipio/79520
+
+----------------------------------------
+
 ### Como executar o projeto
 Links:
 
