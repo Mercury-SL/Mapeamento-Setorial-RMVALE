@@ -1,6 +1,6 @@
 # API: Mapeamento setorial RMVALE
 
-#(https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image)
+:https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image:
 
 ### :mag_right: Sobre o projeto
 - Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
