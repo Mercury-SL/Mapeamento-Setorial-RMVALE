@@ -40,7 +40,7 @@ Links:
 
 
 # Autores
-:woman_student: **Scrum Master:** Danubia Mayumi Aihara - [LinkedIn](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
+:woman_student: **Scrum Master:** [Danubia Mayumi Aihara](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
 
 :woman_student: **P.O:** Nicolli Victoria Paparazo Ferreira -
 
