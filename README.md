@@ -29,8 +29,8 @@
 --------------------------------------
 
 ### Links
-- Tabela de exportação: http://comexstat.mdic.gov.br/pt/municipio/79521
-- Tabela de importação: http://comexstat.mdic.gov.br/pt/municipio/79520
+- [Tabela de exportação](http://comexstat.mdic.gov.br/pt/municipio/79521)
+- [Tabela de importação](http://comexstat.mdic.gov.br/pt/municipio/79520)
 
 ----------------------------------------
 
@@ -47,8 +47,8 @@ Links:
 :busts_in_silhouette:	**Scrum Team:**
 - Gabriel Sene Moreira -  
 
-- João Augusto Amaral da Silva - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214)
+- [João Augusto Amaral da Silva](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214)
 
-- Matheus Gustavo Oliveira Cardoso - [LinkedIn](https://www.linkedin.com/in/theuscards)
+- [Matheus Gustavo Oliveira Cardoso](https://www.linkedin.com/in/theuscards)
 
-- Pedro Calderaro Martins - [LinkedIn](https://www.linkedin.com/in/pedro-calderaro-175462262/)
+- [Pedro Calderaro Martins](https://www.linkedin.com/in/pedro-calderaro-175462262/)
