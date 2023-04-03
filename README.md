@@ -1,21 +1,23 @@
-# API: Mapeamento setorial RMVALE
+# API: Mapeamento setorial RMVALE :globe_with_meridians:
 
 ### :mag_right: Sobre o projeto
 - Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
 
-#### :memo: Status do projeto: 1ª Sprint
+#### :hourglass_flowing_sand: Status do projeto: 1ª Sprint
 ----------------------------------------------------
 
 ### :desktop_computer: Tecnologias utilizadas
-- **Power BI:** Dashboard, análise e filtragem de dados.
+- :chart_with_upwards_trend:  **Power BI:** Dashboard, análise e filtragem de dados.  
 
-- **Figma:** Prototipação do aplicativo.
+- :wrench: **Figma:** Prototipação do aplicativo.
 
-- **Power Apps:** Criação do aplicativo.
+- :calling: **Power Apps:** Criação do aplicativo. 
 
-- **ComexStat:** Base de dados para o API
+- :clipboard: **ComexStat:** Base de dados para o API. 
 
-- **Excel:** Análise e filtragem de dados encontrados.
+- :bar_chart: **Excel:** Análise e filtragem de dados encontrados.
+
+- :memo: **Jira Software** Scrum.
 
 ----------------------------------------------
 
@@ -39,7 +41,7 @@ Links:
 
 
 
-# Autores
+# :office: Autores
 :woman_student: **Scrum Master:** [Danubia Mayumi Aihara](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
 
 :woman_student: **P.O:** Nicolli Victoria Paparazo Ferreira -
