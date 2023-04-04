@@ -13,11 +13,13 @@
 
 - :calling: **Power Apps:** Criação do aplicativo. 
 
-- :clipboard: **ComexStat:** Base de dados para o API. 
+- :clipboard: [**ComexStat:**](http://comexstat.mdic.gov.br/en/home) Base de dados para o API. 
 
 - :bar_chart: **Excel:** Análise e filtragem de dados encontrados.
 
-- :memo: **Jira Software** Scrum.
+- :memo: **Jira Software:** Scrum.
+
+- :clipboard: [**SisComex:**](http://comexstat.mdic.gov.br/en/home) Sistema de Dados do Comércio Exterior
 
 ----------------------------------------------
 
@@ -38,7 +40,12 @@
 
 ### Como executar o projeto
 Links:
-
+- [Levantamento de Compromisso](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1638403/Levantamento+de+Compromisso?atlOrigin=eyJpIjoiZGFkZTk3ZDI2OTkxNGY3YmExZjFmNDhkNGExNDI5MDYiLCJwIjoiaiJ9)
+- [Organização Inicial de Atividades](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1638410?atlOrigin=eyJpIjoiMmE4MDFjZjAyMjk1NDZkMDgxMDE4YTg5MTJlYzZiMzciLCJwIjoiaiJ9)
+- [Planejamento do Sprint 1](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1572918/Planejamento+do+Sprint+1?atlOrigin=eyJpIjoiMGExM2EzOTlhMzE3NDlkOWI2MDg3MmIyOGQ2ZmYyZjAiLCJwIjoiaiJ9)
+- [Análise SWOT](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1671245?atlOrigin=eyJpIjoiZmI5MjE0ODUyM2ZjNGQ5N2E1ODczMTcyMDhmODIxNzgiLCJwIjoiaiJ9)
+- [5W2H](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1671252/5W2H?atlOrigin=eyJpIjoiNGU0MTk3OTMxZjZhNDFlZWI0MjI0Njk3YzY0MWZhNTkiLCJwIjoiaiJ9)
+- [Mudança de Pessoal na equipe](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/786887?atlOrigin=eyJpIjoiZTJmNmQxNTZmODZmNDUwMjgzNjVmZWYxYzVhNmY1N2MiLCJwIjoiaiJ9)
 
 
 # :office: Autores
