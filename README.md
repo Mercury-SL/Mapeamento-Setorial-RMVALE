@@ -51,14 +51,27 @@ https://user-images.githubusercontent.com/128007093/233758328-888d7b29-abc9-4101
 
 ----------------------------------------
 
-### :bookmark_tabs: Documentação
-Links:
-- [Levantamento de Compromisso](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1638403/Levantamento+de+Compromisso?atlOrigin=eyJpIjoiZGFkZTk3ZDI2OTkxNGY3YmExZjFmNDhkNGExNDI5MDYiLCJwIjoiaiJ9)
-- [Organização Inicial de Atividades](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1638410?atlOrigin=eyJpIjoiMmE4MDFjZjAyMjk1NDZkMDgxMDE4YTg5MTJlYzZiMzciLCJwIjoiaiJ9)
+### :bookmark_tabs: Documentação:
+
+:large_blue_diamond: **Geral:**
+
+- [Organização Inicial de Atividades.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300231/Organizacao.Inicial.de.Atividades.pdf)
+- [Levantamento de Compromisso.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300236/Levantamento.de.Compromisso.pdf)
+- [5W2H.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300243/5W2H.pdf)
+- [Mudança de Pessoal na Equipe.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300258/Mudanca.de.Pessoal.na.Equipe.pdf)
+- [Análise SWOT da Equipe.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300267/Analise.SWOT.da.Equipe.pdf)
+
+:large_blue_circle: **Sprint 1**
+
+- [Análise SWOT de Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
+
+
+
+
 - [Planejamento do Sprint 1](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1572918/Planejamento+do+Sprint+1?atlOrigin=eyJpIjoiMGExM2EzOTlhMzE3NDlkOWI2MDg3MmIyOGQ2ZmYyZjAiLCJwIjoiaiJ9)
-- [Análise SWOT](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1671245?atlOrigin=eyJpIjoiZmI5MjE0ODUyM2ZjNGQ5N2E1ODczMTcyMDhmODIxNzgiLCJwIjoiaiJ9)
-- [5W2H](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1671252/5W2H?atlOrigin=eyJpIjoiNGU0MTk3OTMxZjZhNDFlZWI0MjI0Njk3YzY0MWZhNTkiLCJwIjoiaiJ9)
-- [Mudança de Pessoal na equipe](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/786887?atlOrigin=eyJpIjoiZTJmNmQxNTZmODZmNDUwMjgzNjVmZWYxYzVhNmY1N2MiLCJwIjoiaiJ9)
+
+
+:orange_circle: **Sprint 2**
 
 
 # :office: Autores
@@ -68,9 +81,9 @@ Links:
 
 :busts_in_silhouette:	**Scrum Team:**
 
-:gear: [Gabriel Sene Moreira](https://www.linkedin.com/in/gabriel-sene-moreira-80b339232)
+:gear: **Team Member:** [Gabriel Sene Moreira](https://www.linkedin.com/in/gabriel-sene-moreira-80b339232)
 
-:gear: - Gustavo de Andrare Costa
+:gear: **Team Member:** Gustavo de Andrare Costa
 
 :mag: **Analista de Dados:** [João Augusto Amaral da Silva](https://www.linkedin.com/in/jo%C3%A3o-augusto-4114b0214)
 
