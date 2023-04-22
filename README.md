@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/128007093/233758328-888d7b29-abc9-4101
 
 - [Planejamento do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
 - [Análise SWOT de Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
-
+- [Resultado do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
 
 
 
