@@ -25,6 +25,8 @@
 
 - :clipboard: [**SisComex:**](http://comexstat.mdic.gov.br/en/home) Sistema de Dados do Comércio Exterior
 
+- 📋 [**bluesoft Cosmos**](https://cosmos.bluesoft.com.br/ncms) Catálogo Online de produtos, descrição pela denominação NCM.
+
 ----------------------------------------------
 
 ### :framed_picture: Layouts
@@ -63,12 +65,12 @@ https://user-images.githubusercontent.com/128007093/233758328-888d7b29-abc9-4101
 
 :large_blue_circle: **Sprint 1**
 
+- [Planejamento do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
 - [Análise SWOT de Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
 
 
 
 
-- [Planejamento do Sprint 1](https://loginovation2.atlassian.net/wiki/spaces/LI/pages/1572918/Planejamento+do+Sprint+1?atlOrigin=eyJpIjoiMGExM2EzOTlhMzE3NDlkOWI2MDg3MmIyOGQ2ZmYyZjAiLCJwIjoiaiJ9)
 
 
 :orange_circle: **Sprint 2**
