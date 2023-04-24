@@ -56,16 +56,17 @@ https://user-images.githubusercontent.com/128007093/233758328-888d7b29-abc9-4101
 - [5W2H.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300243/5W2H.pdf)
 - [Mudança de Pessoal na Equipe.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300258/Mudanca.de.Pessoal.na.Equipe.pdf)
 - [Análise SWOT da Equipe.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300267/Analise.SWOT.da.Equipe.pdf)
-- [Análise SWOT de Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
 
-- [Tabela de exportação](http://comexstat.mdic.gov.br/pt/municipio/79521)
-- [Tabela de importação](http://comexstat.mdic.gov.br/pt/municipio/79520)
+:star: [Tabela de exportação](http://comexstat.mdic.gov.br/pt/municipio/79521)
+
+:star: [Tabela de importação](http://comexstat.mdic.gov.br/pt/municipio/79520)
 
 :large_blue_circle: **Sprint 1**
 
 - [Planejamento do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
 - [Resultado do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
-
+- [Dissertação do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11305592/Dissertacao.do.Sprint.1.pdf)
+- [Análise SWOT de Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
 
 
 
