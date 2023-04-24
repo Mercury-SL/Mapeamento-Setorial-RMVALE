@@ -77,6 +77,9 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 
 :orange_circle: **Sprint 2**
 
+- [Planejamentodo Sprint 2.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
+
+
 
 # :office: Autores
 :drum: **Scrum Master:** [Danubia Mayumi Aihara](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
