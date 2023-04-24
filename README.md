@@ -108,3 +108,6 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 :art: **Designer Gráfico:** [Matheus Gustavo Oliveira Cardoso](https://www.linkedin.com/in/theuscards)
 
 :computer: **T.I:** [Pedro Calderaro Martins](https://www.linkedin.com/in/pedro-calderaro-175462262/)
+
+----------------------------------------------------
+ 
