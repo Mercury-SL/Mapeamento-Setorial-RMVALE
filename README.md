@@ -1,3 +1,5 @@
+![viewavatar](https://user-images.githubusercontent.com/128007093/233907874-7a70d65c-bfdd-4198-a0d5-084c0778bc37.png)
+
 # API: Mapeamento setorial RMVALE :globe_with_meridians:
 
 ### :mag_right: Sobre o projeto
@@ -8,6 +10,11 @@
 #### 1ª Sprint - 13/03/2023 - 03/04/2023 :100:
 
 #### 2ª Sprint - 03/04/2023 - 24/04/2023 :hourglass_flowing_sand: 
+
+#### 3ª Sprint - 24/24/2023 - 
+
+#### 4ª Sprint - 
+
 ----------------------------------------------------
 
 ### :desktop_computer: Tecnologias utilizadas
@@ -47,6 +54,11 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 
 - Protótipo do aplicativo
 
+
+
+[ver.0.5](https://user-images.githubusercontent.com/128007093/233906599-4aa1fecf-8bde-4de8-9efc-6c5b9f257f76.mp4)
+
+
 - Aplicativo
 
 --------------------------------------
@@ -74,11 +86,10 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 
 
 
-
 :orange_circle: **Sprint 2**
 
 - [Planejamentodo Sprint 2.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
-
+- [Análise SWOT do Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
 
 
 # :office: Autores
