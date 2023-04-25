@@ -85,6 +85,7 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 - [Resultado do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
 - [Dissertação do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11305592/Dissertacao.do.Sprint.1.pdf)
 - [Análise SWOT de Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
+- [Apresentação da Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11319810/Apresentacao.da.Sprint.1.pdf)
 
 
 
@@ -92,6 +93,7 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 
 - [Planejamentodo Sprint 2.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
 - [Análise SWOT do Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
+- [Apresentação da Sprint 2](https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image)
 
 
 # :office: Autores
