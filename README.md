@@ -96,6 +96,11 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 - [Apresentação da Sprint 2](https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image)
 
 
+
+:red_circle: **Sprint3**
+
+- [Planejamento do Sprint 3]
+
 # :office: Autores
 :drum: **Scrum Master:** [Danubia Mayumi Aihara](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
 
