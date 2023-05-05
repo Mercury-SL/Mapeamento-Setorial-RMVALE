@@ -32,7 +32,7 @@
 
 - 📕 [**Confluence:**](https://loginovation2.atlassian.net/wiki/spaces/LI/overview?homepageId=786629) Diretório de documentação dos Sprints
 
-- :clipboard: [**SisComex:**](http://comexstat.mdic.gov.br/en/home) Sistema de Dados do Comércio Exterior
+- :clipboard: [**SisComex:**](https://portalunico.siscomex.gov.br/portal/) Sistema de Dados do Comércio Exterior
 
 - 📋 [**bluesoft Cosmos**](https://cosmos.bluesoft.com.br/ncms) Catálogo Online de produtos, descrição pela denominação NCM.
 
