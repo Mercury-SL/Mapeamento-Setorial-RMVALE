@@ -106,6 +106,8 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 ----------------------------------------------------
 ### :books: *Manuais*
 
+- [Manual GitHub](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11520970/Manual.GitHub.docx)
+
 ----------------------------------------------------
 # :office: Autores
 :drum: **Scrum Master:** [Danubia Mayumi Aihara](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
