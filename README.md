@@ -1,4 +1,6 @@
-![viewavatar](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/67322dc7-e39f-41b8-b098-523269e22484)
+<div align="center">
+ <img src="https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/67322dc7-e39f-41b8-b098-523269e22484.jpg" width="700px" />
+</div>
 
 
 # API: Mapeamento setorial RMVALE :globe_with_meridians:
