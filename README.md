@@ -106,9 +106,9 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 ----------------------------------------------------
 ### :books: *Manuais*
 
-- [Manual GitHub](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11520970/Manual.GitHub.docx)
+- [Manual GitHub](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11580236/Manual.GitHub.docx)
 - [Manual Excel](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11521176/Manual.Excel.pdf)
-- [Manual Power Apps](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11570677/Manual.Power.Apps.docx)
+- [Manual Power Apps](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11580240/Manual.Power.Apps.docx)
 ----------------------------------------------------
 # :office: Autores
 :drum: **Scrum Master:** [Danubia Mayumi Aihara](https://www.linkedin.com/in/danubia-mayumi-aihara-74332326b/)
