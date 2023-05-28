@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 
 - [Planejamentodo Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
 - [Resultado do Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583975/LI-Resultado.do.Sprint.2-280523-074041.pdf)
-- 
+- [Documentação Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583995/Documentacao.Sprint.2.pdf)
 - [Análise SWOT do Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
 - [Apresentação da Sprint 2](https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image)
 
