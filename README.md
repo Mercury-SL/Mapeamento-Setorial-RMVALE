@@ -72,11 +72,11 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 
 :large_blue_diamond: **Geral:**
 
-- [Organização Inicial de Atividades.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300231/Organizacao.Inicial.de.Atividades.pdf)
-- [Levantamento de Compromisso.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300236/Levantamento.de.Compromisso.pdf)
-- [5W2H.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300243/5W2H.pdf)
-- [Mudança de Pessoal na Equipe.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300258/Mudanca.de.Pessoal.na.Equipe.pdf)
-- [Análise SWOT da Equipe.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300267/Analise.SWOT.da.Equipe.pdf)
+- [Organização Inicial de Atividades](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300231/Organizacao.Inicial.de.Atividades.pdf)
+- [Levantamento de Compromisso](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300236/Levantamento.de.Compromisso.pdf)
+- [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300243/5W2H.pdf)
+- [Mudança de Pessoal na Equipe](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300258/Mudanca.de.Pessoal.na.Equipe.pdf)
+- [Análise SWOT da Equipe](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300267/Analise.SWOT.da.Equipe.pdf)
 
 :star: [Tabela de exportação](http://comexstat.mdic.gov.br/pt/municipio/79521)
 
@@ -84,18 +84,20 @@ https://user-images.githubusercontent.com/128007093/233893864-e53ed0d0-c425-4956
 
 :large_blue_circle: **Sprint 1**
 
-- [Planejamento do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
-- [Resultado do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
-- [Dissertação do Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11305592/Dissertacao.do.Sprint.1.pdf)
-- [Análise SWOT de Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
-- [Apresentação da Sprint 1.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11319810/Apresentacao.da.Sprint.1.pdf)
+- [Planejamento do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
+- [Resultado do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
+- [Dissertação do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11305592/Dissertacao.do.Sprint.1.pdf)
+- [Análise SWOT de Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
+- [Apresentação da Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11319810/Apresentacao.da.Sprint.1.pdf)
 
 
 
 :orange_circle: **Sprint 2**
 
-- [Planejamentodo Sprint 2.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
-- [Análise SWOT do Produto.pdf](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
+- [Planejamentodo Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
+- [Resultado do Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583975/LI-Resultado.do.Sprint.2-280523-074041.pdf)
+- 
+- [Análise SWOT do Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
 - [Apresentação da Sprint 2](https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image)
 
 
