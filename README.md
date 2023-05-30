@@ -121,7 +121,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 :red_circle: **Sprint3**
 
 - [Planejamento do Sprint 3](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11588751/LI-Planejamento.do.Sprint.3-290523-054025.pdf)
-
+- [Documentação Sprint 3](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11598831/Documentacao.Sprint.3.pdf)
 - [Análise SWOT da Cadeia Aeronáutica](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11584003/SWOT.da.Cadeia.Produtiva.Aeronautica.-.Log.Inovation.-.Confluence.pdf)
 
 - [Apresentação da Sprint 3](https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image)
