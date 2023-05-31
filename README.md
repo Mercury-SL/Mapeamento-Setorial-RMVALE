@@ -128,9 +128,9 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 ----------------------------------------------------
 ### :books: *Manuais*
 
-- [Manual GitHub](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11580236/Manual.GitHub.docx)
+- [Manual GitHub](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11619295/Manual.GitHub.docx)
 - [Manual Excel](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11521176/Manual.Excel.pdf)
-- [Manual Power Apps](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11580240/Manual.Power.Apps.docx)
+- [Manual Power Apps](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11619296/Manual.Power.Apps.docx)
 - [Manual Power BI](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11584049/Manual.do.Power.BI.pdf)
 
 ----------------------------------------------------
