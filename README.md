@@ -101,21 +101,19 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 :large_blue_circle: **Sprint 1**
 
 - [Planejamento do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
-- [Resultado do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
 - [Dissertação do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11305592/Dissertacao.do.Sprint.1.pdf)
 - [Análise SWOT de Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
 - [Apresentação da Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11319810/Apresentacao.da.Sprint.1.pdf)
-
+- [Resultado do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
 
 
 :orange_circle: **Sprint 2**
 
 - [Planejamentodo Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
-- [Resultado do Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583975/LI-Resultado.do.Sprint.2-280523-074041.pdf)
 - [Documentação Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583995/Documentacao.Sprint.2.pdf)
 - [Análise SWOT do Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
 - [Apresentação da Sprint 2](https://view.genial.ly/6471e98c4ee68f0019b70564/interactive-image-copy-basic-interactive-image)
-
+- [Resultado do Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583975/LI-Resultado.do.Sprint.2-280523-074041.pdf)
 
 
 :red_circle: **Sprint 3**
@@ -143,6 +141,8 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 - [Manual Excel](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11521176/Manual.Excel.pdf)
 - [Manual Power Apps](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11619296/Manual.Power.Apps.docx)
 - [Manual Power BI](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11584049/Manual.do.Power.BI.pdf)
+- [Manual Jira Software](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11712112/Manual.Jira.3.pdf)
+
 
 ----------------------------------------------------
 # :office: Autores
