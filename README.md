@@ -102,6 +102,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 
 - [Planejamento do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
 - [Dissertação do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11305592/Dissertacao.do.Sprint.1.pdf)
+- [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/d537f4f4-1b9e-452f-b8a6-565e9fd7aabd)
 - [Análise SWOT de Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
 - [Apresentação da Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11319810/Apresentacao.da.Sprint.1.pdf)
 - [Resultado do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
@@ -111,6 +112,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 
 - [Planejamentodo Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
 - [Documentação Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583995/Documentacao.Sprint.2.pdf)
+- [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/2859945e-01b8-4358-94ee-74038eaf4274)
 - [Análise SWOT do Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
 - [Apresentação da Sprint 2](https://view.genial.ly/6471e98c4ee68f0019b70564/interactive-image-copy-basic-interactive-image)
 - [Resultado do Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11583975/LI-Resultado.do.Sprint.2-280523-074041.pdf)
@@ -120,6 +122,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 
 - [Planejamento do Sprint 3](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11588751/LI-Planejamento.do.Sprint.3-290523-054025.pdf)
 - [Documentação Sprint 3](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11598831/Documentacao.Sprint.3.pdf)
+- [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/6e5bf222-d21a-43ad-bd3f-bdcf33cbca44)
 - [Análise SWOT da Cadeia Aeronáutica](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11584003/SWOT.da.Cadeia.Produtiva.Aeronautica.-.Log.Inovation.-.Confluence.pdf)
 - [Apresentação da Sprint 3](https://view.genial.ly/642993d0ed6fee001116744f/interactive-image-basic-interactive-image)
 - [Resultado do Sprint 3](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11712851/LI-Resultado.do.Sprint.3-100623-161131.pdf)
@@ -130,7 +133,9 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 🟢 **Sprint 4**
 
 - [Planejamento do Sprint 4](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11712852/LI-Planejamento.do.Sprint.4-100623-163109.pdf)
-- [Documentação do Sprint 4]
+- [Documentação do Sprint 4](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11715647/Documentacao.Sprint.4.pdf)
+- [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/91421086-da61-4449-80a5-ab674603e89c)
+- [Horas de Trabalho](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/6b3e0e04-6880-48d1-877e-2855669f5b47)
 - [Apresentação do Sprint 4]
 - [Resultado do Sprint 4]
 
