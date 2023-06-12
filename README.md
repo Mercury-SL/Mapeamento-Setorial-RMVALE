@@ -88,6 +88,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 
 :large_blue_diamond: **Geral:**
 
+- [Quem Somos?](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11719908/LI-Quem.somos_-120623-080905.pdf)
 - [Organização Inicial de Atividades](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300231/Organizacao.Inicial.de.Atividades.pdf)
 - [Levantamento de Compromisso](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300236/Levantamento.de.Compromisso.pdf)
 - [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300243/5W2H.pdf)
