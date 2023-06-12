@@ -137,7 +137,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 - [Documentação do Sprint 4](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11715647/Documentacao.Sprint.4.pdf)
 - [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/91421086-da61-4449-80a5-ab674603e89c)
 - [Horas de Trabalho](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/6b3e0e04-6880-48d1-877e-2855669f5b47)
-- [Apresentação do Sprint 4]
+- [Apresentação do Sprint 4](https://view.genial.ly/6486db2c774f910012dd6093/interactive-image-copy-spt3)
 - [Resultado do Sprint 4]
 
 
