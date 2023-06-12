@@ -6,7 +6,7 @@
 # API: Mapeamento setorial RMVALE :globe_with_meridians:
 
 ### :mag_right: Sobre o projeto
-- Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
+- Buscando um aprofundamento teórico e uma avaliação dos mercados disponpiveis para o desenvolvimento dos conhecimentos da amplitude logística necessária na execução de um projeto, foi proposto o tema Mapeamento e avaliação das cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação. De forma a desenvolver os profissionais da área de logística vinculados com a Fatec São José dos Campos
 
 #### :date: **Status do projeto:**
 
