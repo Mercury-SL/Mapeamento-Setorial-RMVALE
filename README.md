@@ -140,6 +140,9 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 - [Resultado do Sprint 4](https://drive.google.com/file/d/1EU6gE12jY5U0OkZs4BUPMqmwA9HWrrPI/view?usp=sharing)
 
 
+
+♥️[Apresentação da Feira de Soluções](https://www.canva.com/design/DAFlxBddVgk/cHJahDmIZmZrsFcN186RqA/watch?utm_content=DAFlxBddVgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 ----------------------------------------------------
 ### :books: *Manuais*
 
