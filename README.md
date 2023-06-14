@@ -46,7 +46,6 @@
 
 
 
-
 https://user-images.githubusercontent.com/128007093/233758328-888d7b29-abc9-4101-9c9b-b87fe3b23e74.mp4
 
 
@@ -89,11 +88,11 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 :large_blue_diamond: **Geral:**
 
 - [Quem Somos?](https://drive.google.com/file/d/1wQ7nxFPQt0JZuSD7HwwYR_FHTR268gMg/view?usp=sharing)
-- [Organização Inicial de Atividades](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300231/Organizacao.Inicial.de.Atividades.pdf)
-- [Levantamento de Compromisso](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300236/Levantamento.de.Compromisso.pdf)
+- [Organização Inicial de Atividades](https://drive.google.com/file/d/14l1BefSmHAeT5AmP3PJrxoIiw42DhiFr/view?usp=sharing)
+- [Levantamento de Compromisso](https://drive.google.com/file/d/1g8T7Fa0jsLovm-F0Ox_rta2OW_eAWCdg/view?usp=sharing)
 - [5W2H](https://drive.google.com/file/d/1DDskLsPAzvosWf9HQTAzaWvROGxoVSG9/view?usp=sharing)
-- [Mudança de Pessoal na Equipe](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300258/Mudanca.de.Pessoal.na.Equipe.pdf)
-- [Análise SWOT da Equipe](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300267/Analise.SWOT.da.Equipe.pdf)
+- [Mudança de Pessoal na Equipe](https://drive.google.com/file/d/1GRXXSCY2DejVnjJ8P_m00aVAJ-5wbXxC/view?usp=sharing)
+- [Análise SWOT da Equipe](https://drive.google.com/file/d/1m6_Eg3dGL0qBb-_TZnn1tctSyV6Tdjqp/view?usp=sharing)
 
 :star: [Tabela de exportação](http://comexstat.mdic.gov.br/pt/municipio/79521)
 
@@ -101,20 +100,20 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 
 :large_blue_circle: **Sprint 1**
 
-- [Planejamento do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
+- [Planejamento do Sprint 1](https://drive.google.com/file/d/1eZecS2tzGNP2yl5gC8oo3ylpS7dHq6_5/view?usp=sharingf)
 - [Dissertação do Sprint 1](https://drive.google.com/file/d/1CwbeytGQlYsIEIPRedN1rSx3ru2Daof_/view?usp=sharing)
 - [5W2H](https://drive.google.com/file/d/1SeeWLrTqo5fqOZAkbQ-0APcF7YQHUMwC/view?usp=sharing)
-- [Análise SWOT de Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
+- [Análise SWOT de Produto](https://drive.google.com/file/d/1Yol-HvYnAqUZ0mNsHzCnM8KOVNGH2xce/view?usp=sharing)
 - [Apresentação da Sprint 1](https://drive.google.com/file/d/10d3BKdoO9v2njsge7glm90ktQ_RHd_5t/view?usp=sharing)
-- [Resultado do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
+- [Resultado do Sprint 1](https://drive.google.com/file/d/1msKvbntMXr1CrokK7HXpGnpxpgd8g7_3/view?usp=sharing)
 
 
 :orange_circle: **Sprint 2**
 
-- [Planejamentodo Sprint 2](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306722/Planejamentodo.Sprint.2.pdf)
+- [Planejamentodo Sprint 2](https://drive.google.com/file/d/14u0yIqV2Pd_JAyHohaToFi_THLZMYdxl/view?usp=sharing)
 - [Documentação Sprint 2](https://drive.google.com/file/d/1YgeC_CkxgRyuULrIjAz-80l8rOLLSE2r/view?usp=sharing)
 - [5W2H](https://drive.google.com/file/d/1MZWiwMfag3OgZA70dnMyeOzUdKtlHtd-/view?usp=sharing)
-- [Análise SWOT do Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11306770/Analise.SWOT.do.Produto.pdf)
+- [Análise SWOT do Produto](https://drive.google.com/file/d/1ixcjo9Q9qIUMK-aTr4CdO0xiaBMU6dgk/view?usp=sharing)
 - [Apresentação da Sprint 2](https://view.genial.ly/6471e98c4ee68f0019b70564/interactive-image-copy-basic-interactive-image)
 - [Resultado do Sprint 2](https://drive.google.com/file/d/1KGa_J8J6nmGb-vLwAFhIB94_pmy_z2wJ/view?usp=sharing)
 
@@ -136,7 +135,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 - [Planejamento do Sprint 4](https://drive.google.com/file/d/1Ps9hT73Hh5KfXBYOpFHyj99ct38O9Liz/view?usp=sharing)
 - [Documentação do Sprint 4](https://drive.google.com/file/d/1u4he-zSZtiQwEXHGAgw3LQtRjHz5szFQ/view?usp=sharing)
 - [5W2H](https://drive.google.com/file/d/15A2tlE18hcgsdxAvEEh9dc3Y_cDS48p6/view?usp=sharing)
-- [Horas de Trabalho](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/6b3e0e04-6880-48d1-877e-2855669f5b47)
+- [Horas de Trabalho](https://drive.google.com/file/d/14KLUIb5Su1BGe5YtKq5FO-H7WQPTXPvB/view?usp=sharing)
 - [Apresentação do Sprint 4](https://view.genial.ly/6486db2c774f910012dd6093/interactive-image-copy-spt3)
 - [Resultado do Sprint 4](https://drive.google.com/file/d/1EU6gE12jY5U0OkZs4BUPMqmwA9HWrrPI/view?usp=sharing)
 
@@ -144,9 +143,9 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 ----------------------------------------------------
 ### :books: *Manuais*
 
-- [Manual GitHub](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11619295/Manual.GitHub.docx)
-- [Manual Excel](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11521176/Manual.Excel.pdf)
-- [Manual Power Apps](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11619296/Manual.Power.Apps.docx)
+- [Manual GitHub](https://drive.google.com/file/d/1HajR_4ckNlVotii75xxi6pKOVBRnJr1t/view?usp=sharing)
+- [Manual Excel](https://drive.google.com/file/d/1nhv6xJx04gLm7pQqSxNw1UrR21AneLMA/view?usp=sharing)
+- [Manual Power Apps](https://drive.google.com/file/d/1Nmm8zAEb4bgigqhcMazQhOvtWJ-bc-nK/view?usp=sharing)
 - [Manual Power BI](https://drive.google.com/file/d/1PNq_iRAt2-3rqolCVK2LE6YksPw5OUHe/view?usp=sharing)
 - [Manual Jira Software](https://drive.google.com/file/d/14hdkzBhumH4SsrQPwszgauus6rHTAUhW/view?usp=sharing)
 
