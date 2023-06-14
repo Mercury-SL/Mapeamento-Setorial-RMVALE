@@ -103,7 +103,7 @@ https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/e55
 
 - [Planejamento do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301053/Planejamento.do.Sprint.1.pdf)
 - [Dissertação do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11305592/Dissertacao.do.Sprint.1.pdf)
-- [5W2H](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/assets/128007093/d537f4f4-1b9e-452f-b8a6-565e9fd7aabd)
+- [5W2H](https://drive.google.com/file/d/1SeeWLrTqo5fqOZAkbQ-0APcF7YQHUMwC/view?usp=sharing)
 - [Análise SWOT de Produto](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11300270/Analise.SWOT.de.Produto.pdf)
 - [Apresentação da Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11319810/Apresentacao.da.Sprint.1.pdf)
 - [Resultado do Sprint 1](https://github.com/Log-Inovation/Mapeamento-Setorial-RMVALE/files/11301138/Resultado.do.Sprint.1.pdf)
